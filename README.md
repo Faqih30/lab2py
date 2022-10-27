@@ -1,7 +1,10 @@
 ## lab2py
 
 - FAQIH IRIANTO (312210021)
+- Disini saya menggunakan Aplikasi Code Editor Visual Studio Code
+
 - Latihan 1
+
 - Berlatih menggunakan fungsi Print 
     - Menampilkan tulisan Hello (Output)
     - Menampilkan Output print "Saya sedang belajar python"
